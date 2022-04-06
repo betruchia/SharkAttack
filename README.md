@@ -1,4 +1,5 @@
 # sharkattack
- project 1
+ironhack - project 1
+by patricia peruchi
 
-limpeza de tabela com intenção de analisar os ataques de tubarão (e eventuais fatalidades) nos 20 países com maior área de plataforma continental
+dataset cleaning in order to analyse shark attacks (and eventual deaths) in the 20 countries with the greatest continental shelf
